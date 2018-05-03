@@ -1,1 +1,0 @@
-Egy egyszerû oldal.
